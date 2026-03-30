@@ -39,7 +39,7 @@ Compilation and Execution
 ### Compile:
 
 ```
-gcc -pthread producer_consumer_buffer.c -o producer_consumer
+gcc -pthread producer_consumer_belt.c -o producer_consumer
 ```
 
 ### Run:
